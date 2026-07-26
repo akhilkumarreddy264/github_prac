@@ -1,1 +1,7 @@
 one
+<<<<<<< HEAD
+=======
+three 
+four
+five
+>>>>>>> ea2c7e24e8f9aa6faf15095eb36422d4a599e1b5
